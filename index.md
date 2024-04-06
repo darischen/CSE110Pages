@@ -48,7 +48,7 @@ I have a custom keyboard that I've built in summer of 2023. Here are the compone
 ![Image](./keyboard.jpg)
 
 ## Dog
-I have a Shiba Inu named Oreo. Here are a few pictures of her getting washed: 
+I have a Shiba Inu named Oreo. Here are a few pictures of her getting washed:\
 [Before getting washed](./chair.jpg)\
 [While getting washed](./bath.jpg)\
 [Oreo being sleepy after getting blown dry with a hairdryer](./sleepy.jpg)
