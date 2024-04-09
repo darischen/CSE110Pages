@@ -8,8 +8,8 @@
 ## About Me
 Hello! I'm Daris Chen, a passionate programmer based in California. here's a bit about me:
 
-- **Github:** https://github.com/darischen
-- **Linkedin:** https://linkedin.com/darischen
+- **Github Link:** [Github] (https://github.com/darischen)
+- **Linkedin Link:** [Linkedin] (https://linkedin.com/darischen)
 
 As a naturally curious individual, I find that learning is all around us. One quote that I came across that really resonates with the learning process is
 > The bigger the circle of the known the greater the contact with the unknown.
