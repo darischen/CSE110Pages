@@ -8,13 +8,13 @@
 ## About Me
 Hello! I'm Daris Chen, a passionate programmer based in California. here's a bit about me:
 
-- **Github:** https://github.com/darischen
-- **Linkedin:** https://linkedin.com/darischen
+- **Github Link:** [Github] (https://github.com/darischen)
+- **Linkedin Link:** [Linkedin] (https://linkedin.com/darischen)
 
 As a naturally curious individual, I find that learning is all around us. One quote that I came across that really resonates with the learning process is
-> The bigger the circle of the known the greater the contact with the unknown.\
+> The bigger the circle of the known the greater the contact with the unknown.
 
-I am constantly learning new things, especially as a student at UCSD, which uses the quarter system as the basis of their academic calendar.\
+I am constantly learning new things, especially as a student at UCSD, which uses the quarter system as the basis of their academic calendar.
 
 ## Languages
 One of my favorite programming languages is Python because of its versatility. Of course, my first snippet of programming in Python is obviously
@@ -48,7 +48,7 @@ I have a custom keyboard that I've built in summer of 2023. Here are the compone
 ![Image](./keyboard.jpg)
 
 ## Dog
-I have a Shiba Inu named Oreo. Here are a few pictures of her getting washed: 
+I have a Shiba Inu named Oreo. Here are a few pictures of her getting washed:\
 [Before getting washed](./chair.jpg)\
 [While getting washed](./bath.jpg)\
 [Oreo being sleepy after getting blown dry with a hairdryer](./sleepy.jpg)
